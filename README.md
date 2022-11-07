@@ -161,7 +161,7 @@ else:
     print("SALAH")
 ```
 
-![img_1.png](picture/2.02.png)
+![img_1.png](picture/2.2.png)
 
 ### Tugas Praktikum 2
 
