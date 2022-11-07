@@ -202,7 +202,7 @@ for baris in range (0,10):
 
 hasilnya akan menjadi
 
-![img.png](picture/Hasil3.0.png)
+![img.png](picture/3.0.png)
 
 ### Latihan 2
 
@@ -221,7 +221,7 @@ for i in range (n):
 
 maka hasilnya menjadi 
 
-![img.png](picture/Hasil3.01.png)
+![img.png](picture/3.01.png)
 
 ---
 
@@ -237,7 +237,7 @@ for i in range (n):
     print("Data ke :",i+1,"=> ",a)
 ```
 
-![img.png](picture/Hasil3.01.png)
+![img.png](picture/3.01.png)
 
 ### Latihan 2
 
