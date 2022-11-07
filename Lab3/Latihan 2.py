@@ -1,10 +1,6 @@
-x = 0
+import random
+n = int(input("Masukkan nilai N: "))
 
-while True:
-    y=int(input("masukkan bilangan: "))
-    if x < y:
-        x = y
-    if y == 0:
-        break
-print("bilangan terbesar adalah ",x)
-
+for i in range (n):
+    a = random.uniform(0.0,0.5)
+    print("Data ke :",i+1,"=> ",a)
