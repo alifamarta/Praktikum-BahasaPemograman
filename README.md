@@ -63,7 +63,7 @@ else:
 
 Maka hasilnya akan seperti ini
 
-![img.png](picture/1.1.png)
+![img.png](picture/1.01.png)
 
 ---
 
